@@ -7,7 +7,7 @@ const Navbar = () => {
         <nav className="navbar">
 
             <NavLink to="/" className="logo-link">
-                <img src="/emily.svg" alt="Website Logo" className="logo" />
+                <img src="public/emily.svg" alt="Website Logo" className="logo" />
             </NavLink>
             <NavLink to="/about" className="nav-link">About</NavLink>
             <NavLink to="/recipes" className="nav-link">Recipes</NavLink>
